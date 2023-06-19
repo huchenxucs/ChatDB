@@ -1,0 +1,4 @@
+sale_id,customer_id,sale_date,total_price
+1,1,2023-01-10,51.0
+2,3,2023-01-10,48
+3,5,2023-01-11,72

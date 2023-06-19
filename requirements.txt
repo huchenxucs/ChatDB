@@ -1,0 +1,11 @@
+colorama==0.4.6
+openai==0.27.2
+python-dotenv==1.0.0
+tiktoken==0.4.0
+prettytable==3.7.0
+PyMySQL==1.0.3
+langchain==0.0.162
+SQLAlchemy==1.4.39
+numpy
+pandas
+

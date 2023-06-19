@@ -1,0 +1,4 @@
+fruit_id,fruit_name,selling_price,stock_quantity,fruit_type,shelf_life
+1,apple,1.5,90,pome fruit,20
+2,orange,2.4,150,citrus fruit,15
+3,pear,1.2,270,pome fruit,13
